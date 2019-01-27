@@ -1,0 +1,83 @@
+环境搭建：
+➜ pip install --upgrade virtualenv
+➜ virtualenv --system-site-packages targetDirectory
+  source ./bin/activate
+  easy_install -U pip
+  pip install --upgrade tensorflow
+
+
+TensorFlow 基础结构
+数据模型    --  Tensor（张量）
+计算模型    --  Graph（图）
+运行模型    --  Session（会话）
+
+数据流图
+data flow graph
+
+节点操作（Operation）
+
+会话（Session）
+作用
+
+静态的图->如何让某一部分运动起来
+
+
+
+
+常用的库Numpy
+http://www.numpy.org
+
+
+张量的元素  0阶标量
+1阶向量
+2阶矩阵
+3阶张量
+
+
+Tensor的属性
+属性
+    dtype   数据类型
+    shape   形状
+    其它
+
+Tensor
+
+    Constant(常量) ：值不能改变的一种Tensor
+    Variable(变量)： 值可以改变的一种Tensor
+    Placeholder(占位符)：先占住一个固定位置，等着你之后往里面添加值的一种Tensor
+    SparseTensor(稀疏张量)：一种"稀疏"的Tensor,类似线性代数里的稀疏矩阵的概念
+    稀疏矩阵 在矩阵中，若数值为0的元素数目远远多余非0的数目，并且非0元素分布没有规律时，测称该矩阵为稀疏矩阵；
+
+Tensor 表示法
+Tensor("Mul:0", shape=(), dtype=float32)
+
+
+图（Graph）和会话（Session）
+
+
+
+
+TensorFlow 程序的流程
+1、定义算法的计算图（Graph）结构
+2、使用会话（Session）执行图的一部分计算
+
+TensorBoard 可视化利器
+    人工智能的黑盒
+    输入   -》   输出
+
+    1、用TensorFlow保存图的信息到日志中
+    tf.summary.FileWriter("日志保存路径", sess.graph)
+    2、读取
+    tensorboard --logdir=
+
+playground 酷炫模拟游乐场
+http://playground.tensorflow.org
+(targetDirectory) ➜  targetDirectory sudo pip install matplotlib
+
+Matplotlib
+Matrix      Plot        Library
+矩阵         绘图           库
+
+一个及其强大的Python 绘图库 官网：http://matplotlib.org
+
+准备数据-》绘制图像
