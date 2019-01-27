@@ -80,4 +80,5 @@ Matrix      Plot        Library
 
 一个及其强大的Python 绘图库 官网：http://matplotlib.org
 
+sudo pip install matplotlib
 准备数据-》绘制图像
