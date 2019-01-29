@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/gradient_descent/linear_regression.py" line="11" mnemonic="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5bbaf912-63c8-4013-8328-69adee9d55a3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Note" beforeDir="false" afterPath="$PROJECT_DIR$/Note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradient_descent/linear_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/gradient_descent/linear_regression.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,10 +37,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hello.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="75">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gradient_descent/linear_regression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="59" column="58" selection-start-line="59" selection-start-column="58" selection-end-line="59" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,19 +68,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/graph_session.py">
+        <entry file="file://$PROJECT_DIR$/matplotlib_demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Note">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+            <state relative-caret-position="225">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -80,39 +87,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/matplotlib_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#0#17#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_import_hook.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradient_descent/linear_regression.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tensorboard.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/play_ground.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="23" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -140,16 +120,15 @@
         <option value="$PROJECT_DIR$/Readme" />
         <option value="$PROJECT_DIR$/matplolib.py" />
         <option value="$PROJECT_DIR$/hello.py" />
-        <option value="$PROJECT_DIR$/gradient_descent/linear_regression.py" />
         <option value="$PROJECT_DIR$/matplotlib.py" />
         <option value="$PROJECT_DIR$/matplotlib_demo.py" />
         <option value="$PROJECT_DIR$/Note" />
+        <option value="$PROJECT_DIR$/gradient_descent/linear_regression.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1824" />
-    <option name="y" value="14" />
+    <option name="y" value="49" />
     <option name="width" value="1400" />
     <option name="height" value="769" />
   </component>
@@ -165,6 +144,11 @@
             <path>
               <item name="TensorFlowDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="TensorFlowDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TensorFlowDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TensorFlowDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="gradient_descent" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.matplotlib">
+  <component name="RunManager" selected="Python.linear_regression">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="TensorFlowDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -288,6 +272,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="linear_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TensorFlowDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gradient_descent" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gradient_descent/linear_regression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="matplotlib" type="PythonConfigurationType" factoryName="Python">
       <module name="TensorFlowDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -331,6 +334,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.linear_regression" />
         <item itemvalue="Python.hello" />
         <item itemvalue="Python.tensorboard" />
         <item itemvalue="Python.graph_session" />
@@ -349,18 +353,19 @@
       <updated>1548592667465</updated>
       <workItem from="1548592670325" duration="5587000" />
       <workItem from="1548598781864" duration="4175000" />
-      <workItem from="1548603467021" duration="2581000" />
+      <workItem from="1548603467021" duration="3438000" />
+      <workItem from="1548729734253" duration="2572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12343000" />
+    <option name="totallyTimeSpent" value="15772000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1824" y="14" width="1400" height="769" extended-state="0" />
+    <frame x="0" y="49" width="1400" height="769" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2569956" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -375,15 +380,15 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3293944" />
-      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.3293944" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.3293944" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3293944" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49779737" visible="true" weight="0.3298969" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.4955947" visible="true" weight="0.29086894" />
       <window_info anchor="right" id="R Graphics" order="4" weight="0.3298969" />
       <window_info anchor="right" id="R Packages" order="5" weight="0.3298969" />
-      <window_info active="true" anchor="right" x="0" y="0" width="300" height="569" id="Documentation" order="6" sideWeight="0.50220263" side_tool="true" visible="true" weight="0.3298969" />
+      <window_info anchor="right" x="0" y="0" width="300" height="569" id="Documentation" order="6" sideWeight="0.50440526" side_tool="true" weight="0.29086894" />
       <window_info anchor="right" id="Database" order="7" weight="0.3298969" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" />
     </layout>
@@ -439,18 +444,19 @@
     <entry file="file://$USER_HOME$/targetDirectory/lib/python2.7/site-packages/matplotlib/pyplot.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/graph.py">
+    <entry file="file://$PROJECT_DIR$/Note">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="1215">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensorboard.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/play_ground.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_import_hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/graph_session.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -459,23 +465,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/play_ground.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplotlib_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hello.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="75">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradient_descent/linear_regression.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_import_hook.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -487,20 +500,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/matplotlib_demo.py">
+    <entry file="file://$PROJECT_DIR$/tensorboard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
+        <state>
+          <caret selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Note">
+    <entry file="file://$PROJECT_DIR$/gradient_descent/linear_regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+        <state relative-caret-position="250">
+          <caret line="59" column="58" selection-start-line="59" selection-start-column="58" selection-end-line="59" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
